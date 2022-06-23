@@ -1,0 +1,77 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "name": "LEAN BODY RTD PLANT BASED - BỮA ĂN THAY THẾ THUẦN CHAY, GIÀU PROTEIN ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/l/b/lb_plant_chocolate_1600_336x420.jpg",
+      "price": "1 "
+    },
+    {
+      "id": 2,
+      "name": "LEAN BODY RTD - NGUỒN DINH DƯỠNG GIÀU PROTEIN TIỆN LỢI THƠM NGON ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/l/e/leanbody_rtd_main.jpg",
+      "price": "1 "
+    },
+    {
+      "id": 3,
+      "name": "REDCON1 ISOTOPE - Whey Protein Isolate ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/i/s/isotope_pbc_1024x1024.png",
+      "price": "1899000 "
+    },
+    {
+      "id": 4,
+      "name": "REDCON1 MRE Meal Replacement - Bữa ăn thay thế  thơm ngon phục hồi và sửa chữa cơ hiệu quả ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/m/r/mre_bbc_1024x1024.png",
+      "price": "1750000 "
+    },
+    {
+      "id": 5,
+      "name": "REDCON1 Ration Whey Protein ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/r/a/ration_cookiesncream_1024x1024_upphoto_scale_x2.000000_.jpg",
+      "price": "1590000 "
+    },
+    {
+      "id": 6,
+      "name": "REDCON1 MRE RTD -  Thức Uống Protein Pha Sẵn Có Hương Vị Thơm Ngon Nhất ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/m/r/mre_rtd_blueberry_cobbler_1024x1024_1.jpg",
+      "price": "1300000 "
+    },
+    {
+      "id": 7,
+      "name": "REDCON1 MRE BAR - BỮA ĂN NHẸ NHƯNG ĐẦY ĐỦ DƯỠNG CHẤT ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/m/r/mrechocolatemint_1000x1000_1.jpg",
+      "price": "880000 "
+    },
+    {
+      "id": 8,
+      "name": "Advanced Collagen Protein ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/n/o/nortech_-_advanced.png",
+      "price": "890000 "
+    },
+    {
+      "id": 9,
+      "name": "NORTECH WHEY & OATS – WHEY VIP CARB XỊN KẾT HỢP TĂNG CƠ TỰ NHIÊN ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/b/b/bbt-natural-whey-oats-6.6lb-classic-chocolate.jpg",
+      "price": "1650000 "
+    },
+    {
+      "id": 10,
+      "name": "Lean Mass Weight Gainer ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/n/o/nortech_-_lean_mass_thumb_1.png",
+      "price": "2170000 "
+    },
+    {
+      "id": 11,
+      "name": "TrueFit Bữa Ăn Thay Thế - Nguồn Protein Chất Lượng Cao (40SV) ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/r/s/rsp-truefit.jpg",
+      "price": "1790000 "
+    },
+    {
+      "id": 12,
+      "name": "Labrada LeanBody For Her - Bữa ăn thay thế cho phái đẹp (Gói) ",
+      "image": "https://www.thol.com.vn/pub/media/catalog/product/cache/small_image/300x300/beff4985b56e3afdbeabfc89641a4582/l/e/leanbody-her-goi.jpg",
+      "price": "45000 "
+    
+    }
+  ]
+}

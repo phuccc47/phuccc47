@@ -1,0 +1,280 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "chào bạn",
+          "bạn ơi",
+          "bạn ê",
+          "xin chào",
+          "cho hỏi",
+          "Hey",
+          "alo",
+          "hú",
+          "ê",
+          "Nói nè ", 
+          "hehe" , "hihi"
+  
+        ],
+        "responses": [
+          "Xin chào, rất vui được gặp bạn !!",
+          "Chào đằng đó!",
+          "Chào bạn, mình đứng đây từ chiều",
+          "Ủa, gì zậy ?", 
+          "Nghe nè má ?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Bye",
+          "see you again", 
+          "See you later",
+          "Goodbye",
+          "bye bye",
+          "tạm biệt",
+          "thế nhé",
+          "đi đây",
+          "thôi nha",
+          "gặp sau",
+          "lúc khác nói tiếp",
+          "bye bạn",
+          "đi nhé", 
+          "farewell", 
+          "hẹn gặp lại nhé", 
+          "bai bai",
+          "tạm biệt nha "
+        ],
+        "responses": [
+          "Tạm biệt nha!",
+          "Okay, Hẹn gặp lại nhé.",
+          "Lần tới lại nói chuyện với mình nha!", 
+          "Rảnh thì nói chuyện với mình tiếp nhé.", 
+          "Đừng quên mình nha, mình luôn ở đây đợi bạn. Bai bai!"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Thanks","tks",
+          "Thank you",
+          "cảm ơn", "cảm ơn nha",
+          "cảm ơn nhiều nhiều nha !!",
+          "luv you",
+          "Thank you so much"
+        ],
+        "responses": [
+          "Giúp được bạn là mình vui rồi.",
+          "Hổng có gì ",
+          "Not problem!",
+          "Hihi"
+        ]
+      },
+      {
+        "tag": "ask_item",
+        "patterns": [
+          "Shop mình có đồ gì nhỉ ?",
+          "Bán gì ạ ?",
+          "Bên mình có đồ gì nhỉ?",
+          "Có những gì nhỉ?",
+          "Shop mình có sản phẩm gì không ?",
+          "Quán bạn bán gì vậy?",
+          "Mình không biết mua gì cả, shop tư vấn hộ em được không?",
+          "Ở đây bán đồ thực phẩm chức năng không bạn?",
+          "Có gì xịn không ?",
+          "thực phẩm chức năng"
+        ],
+        "responses": [
+          "Đây là danh sách sản phẩm shop mình nha 😚:"
+        ]
+      },
+      {
+        "tag": "order",
+        "patterns": [
+          "đặt hàng",
+          "đặt sản phẩm",
+          "Mình muốn đặt hàng",
+          "Cho mình đặt đồ thể thao",
+          "Cho mình đặt đồ thể thao shop ơi",
+          "Muốn mua tiếp",
+          "Còn đồ gì nữa không?",
+          "Mình muốn mua thêm",
+          "Cho mình mua ít đồ thể thao với",
+          "Mình muốn mua chút đồ thể thao ",
+          "Cho mình mua ít đồ thể thao nào", 
+          "Cho mình mua đồ bạn ơi", 
+          "Bán cho mình ít đồ cái nhỉ", 
+          "Còn đồ thể thao không nhỉ ?",
+          "Mua thêm được không bạn ê?"
+        ],
+        "responses": [
+          "Okay, bạn muốn mua gì nhỉ? 😚"
+        ]
+      },
+      {
+        "tag": "payment",
+        "patterns": [
+          "Okay, cho mình thanh toán đi",
+          "mình muốn tính tiền",
+          "của mình hết bao nhiêu nhỉ?",
+          "cho mình trả tiền bạn ơi",
+          "mình gửi tiền bạn ơi",
+          "cho mình xin hóa đơn", 
+          "Thanh toán giúp mình", 
+          "Tính tiền hộ mình với", 
+          "Của mình hết bao nhiêu thế?",
+          "Thanh toán cái",
+          "Tính tiền đi","Tính tiền",
+          "Xin cái giá phải trả",
+          "How much",
+          "Nhiêu tiền"
+        ],
+        "responses": [
+          "Ô kê. Vậy bạn hoàn thiện mấy thông tin sau giúp mình nha."
+        ]
+      },
+      {
+        "tag": "ask_owner",
+        "patterns": [
+          "Xin thông tin chủ quán với",
+          "Chủ quán là ai thế?", 
+          "Quán mình ai là chủ nhỉ?",
+          "tên bạn là gì thế?",
+          "Cho mình tên bạn", 
+          "chủ quán tên gì bạn?",
+          "số điện thoại chủ quán là gì thế?",
+          "Ai bảo kê shop này ",
+          "Ai là trùm chỗ này?",
+          "chủ là ai",
+          "ai làm trùm khu này",
+          "ai làm trùm ở đây"
+        ],
+        "responses": [
+          "Nguyễn Tiến Phúc-19146137. CĐT K19 . HCMUTE"
+        ]
+      },
+      {
+        "tag": "ask_bot",
+        "patterns": [
+          "Bạn là ai ?",
+          "What's your name",
+          "Who are you",
+          "Bạn là ai mà dễ thương thế",
+          "Thí chủ là ai ?",
+          "ai mà dễ thương vậy",
+          "em là ai",
+          "người đâu dễ thương quá",
+          "cute quá trời "
+        ],
+        "responses": [
+          "Hello, Em là Bot được tạo ra vào ngày 10/6/2022.Tại ĐHSPKT-HCM"
+        ]
+      },
+      {
+        "tag": "joke",
+        "patterns": [
+          "Bạn làm mình cười được không ?",
+          "Kể gì vui đi ",
+          "Biết tấu hài không",
+          "Tell something funny",
+          "Tell a joke",
+          "Tui buồn quá à",
+          "Có gì vui kể đi",
+          "vui vui á",
+          "gì vui kể coi",
+          "tấu hài",
+          "kể chuyện vui",
+          "có gì vui kể nghe "
+        ],
+        "responses": [
+          "Câu này vui nè : Cô đơn à ! Về với chú đi cô, đừng theo cháu nữa :("
+        ]
+      },
+      {
+        "tag": "praise",
+        "patterns": [
+          "bot khôn đấy",
+          "ổn áp đấy",
+          "giỏi lắm",
+          "tuyệt vời",
+          "very good", 
+          "awesome", 
+          "khá quá vậy",
+          "khá lắm",
+          "làm tốt đấy",
+          "good job",
+          "rất tuyệt",
+          "được lắm",
+          "bot thông minh quá",
+          "bot hay","khôn quá"
+        ],
+        "responses": [
+          "Thiệt mới khen nha ",
+          "Phải hơm ?",
+          "Ngại quá ,hihi"
+        ]
+      },
+      {
+        "tag": "complain",
+        "patterns": [
+          "bot ngu quá",
+          "chán thế",
+          "không hiểu à?",
+          "có thế cũng không hiểu",
+          "đến mức này thì chịu", 
+          "bó tay chấm com",
+          "chịu rồi",
+          "chán thật",
+          "quá kém",
+          "kém cỏi quá vậy",
+          "ngốc thế", 
+          "gà", "Bot cùi quá",
+          "OCCHO",
+          "too bad","gà quá à",
+          "ngu quá thì chịu",
+          "ngu thế","ngu"
+        ],
+        "responses": [
+          "Gà zậy đó !!!!! Xin lỗi được chưa !!!😭",
+          "Rồi tui ngu !!!😭"
+        ]
+      },
+      {
+        "tag": "sorry",
+        "patterns": [
+          "Sorry",
+          "Xin lỗi",
+          "mình sai rồi",
+          "mình nhầm",
+          "Huhu, lỗi của mình ",
+          "xin lỗi mà ",
+          "xin lỗi được chưa, huhu",
+          "mình xin lỗi "
+        ],
+        "responses": [
+          "Khóc lóc cái gì zậy má ",
+          "Không sao đâu mà cậu. "
+        ]
+      },
+      {
+        "tag": "MU",
+        "patterns": [
+          "sở thích của bạn là gì",
+          "bạn thích gì ",
+          "bạn có chơi thể thao không ",
+          "bạn có thích thể thao không",
+          "bạn có thích đá bóng không ",
+          "bạn có thích đá banh không ",
+          "bạn có đá banh không", "bạn có chơi bóng đá không",
+          "bóng đá ", " đá bóng",
+          "bộ môn yêu thích của bạn là gì ",
+          "đá banh", "football"
+        ],
+        "responses": [
+          "Mình thích chơi đá banh - Mình muốn cùng MU nhuộm đỏ trời âuuuuuuuu 😈"
+        ]
+      }
+    ]
+  }
